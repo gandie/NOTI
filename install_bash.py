@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import os
 
+raise DeprecationWarning('Use setup.py instead')
+
 PATH=os.path.dirname(os.path.abspath( __file__ )) # get current path and merge with imager path
 BASH_PATH = PATH
 PARAM="NOTI.sh"

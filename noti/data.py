@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 data = ['''Man is the best computer we can put aboard a spacecraft… and the only one that can be mass produced with unskilled labor. (Wernher von Braun) (Der Mensch ist der beste Computer, den wir in ein Raumschiff stecken können ... und der einzige der sich in Massenproduktion durch ungelernte Arbeit herstellen lässt.''',
 
@@ -141,5 +142,5 @@ data = ['''Man is the best computer we can put aboard a spacecraft… and the on
 
         '''„Unix sagt niemals ›bitte‹.“ (Rob Pike)''',
 
-	    '''Die erste Regel des Fight-Clubs ist: Man redet nicht über den Fight-Club.''',
-    ]
+        '''Die erste Regel des Fight-Clubs ist: Man redet nicht über den Fight-Club.''',
+        ]
